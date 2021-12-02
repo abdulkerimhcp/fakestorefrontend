@@ -4,3 +4,8 @@ module.exports = {
     domains: ["fakestoreapi.com"],
   },
 };
+
+module.exports = {
+    reactStrictMode: true,
+  }
+  
